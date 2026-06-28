@@ -1,0 +1,15 @@
+{
+  "launcherVer": "2.1.0",
+  "changelog": [
+    { "ver":"2.1.0", "date":"2025-06-01", "label":"🚀 Lanzamiento", "changes":[
+      "🎮 Launcher MXRP EXTREMO inicial",
+      "🧩 38 mods del servidor incluidos",
+      "🌐 Servidor: minecraft.egologic.cloud"
+    ]}
+  ],
+  "mods": [
+    { "name":"Architectury API", "ver":"11.1.17", "size":"574 KB", "icon":"🏗️", "required":true,  "cat":"lib", "desc":"Librería base multiplataforma" },
+    { "name":"Fabric API",       "ver":"0.97.3",  "size":"2.1 MB", "icon":"🧩", "required":true,  "cat":"lib", "desc":"API principal de Fabric — REQUERIDO" },
+    { "name":"Sodium",           "ver":"0.5.8",   "size":"927 KB", "icon":"🟡", "required":true,  "cat":"perf","desc":"Optimización de renderizado" }
+  ]
+}
